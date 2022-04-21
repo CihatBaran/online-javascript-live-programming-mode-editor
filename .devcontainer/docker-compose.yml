@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  frontend:
+    image: node:18
+    volumes:
+      - ..:/workspace:delegated
+    stdin_open: true
+    tty: true
+    command: sleep infinity
+  
+volumes:
+  ..:
+    
