@@ -1,2 +1,3 @@
-# online-javascript-live-programming-mode-editor
+# Online Javascript Live Programming Mode Editor
+
 Online JavaScript editor
